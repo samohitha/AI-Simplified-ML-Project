@@ -1,4 +1,4 @@
-# Simplified Midterm Project
+# Simplified Project
 
 <!-- **Project Presentation Link:** [Click here to watch the presentation](https://youtu.be/qszXuuhMAl8) -->
 
